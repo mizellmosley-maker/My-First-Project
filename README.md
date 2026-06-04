@@ -1,2 +1,2 @@
 # My-First-Project
-Phishing website that detects scam emails for company's or students can use.
+Phishing website that detects scam emails for companiess or students to use.
